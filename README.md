@@ -113,8 +113,11 @@ to open an issue if you disagree.
 |dictionary                  |szótár                      |
 |exception                   |kivétel                     |
 |file                        |fájl                        |
+|floating point number       |lebegőpontos szám           |
 |handler (exeption)          |kezelő                      |
 |immutable                   |nem módosítható             |
+|instance                    |példány                     |
+|integer                     |egész szám                  |
 |iterable                    |iterálható                  |
 |keyword argument            |kulcsszavas argumentum      |
 |library reference           |A Python standard könyvtárának kézikönyve|
@@ -136,6 +139,7 @@ to open an issue if you disagree.
 |slice notation              |szeletjelölési mód          |
 |string                      |karakterlánc, sztring       |
 |string-literal              |literális karakterlánc      |
+|subclass                    |leszármazott                |
 |token                       |token                       |
 |tuple                       |tuple  tuple-t, tuple-nek...|
 |Unicode                     |Unicode                     |
